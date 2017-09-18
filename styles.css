@@ -75,3 +75,7 @@ h2 {
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
   }
+
+  #font-change{
+      font-family: "Times New Roman"
+  }
